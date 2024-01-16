@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Movieverse/static/css/main.e6c13ad2.css",
+    "main.js": "/Movieverse/static/js/main.652500bb.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/Movieverse/static/js/787.9e9f4ffd.chunk.js",
+    "index.html": "/Movieverse/index.html",
+    "main.e6c13ad2.css.map": "/Movieverse/static/css/main.e6c13ad2.css.map",
+    "main.652500bb.js.map": "/Movieverse/static/js/main.652500bb.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/Movieverse/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.652500bb.js"
+  ]
+}
